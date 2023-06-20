@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony Leyasi</h1>
+<h1 align="center">Hi,I'm Anthony Leyasi</h1>
 <h3 align="center">Im an aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyleyasi&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyleyasi" /> </p>
